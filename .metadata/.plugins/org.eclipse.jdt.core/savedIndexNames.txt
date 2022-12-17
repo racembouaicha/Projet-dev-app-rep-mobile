@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\racem\AndroidStudioProjects\chatApp\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3304149204.index
+4169741784.index
+2501520862.index
